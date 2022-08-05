@@ -1,9 +1,6 @@
-### PT-BR
-## Olá!
+### Olá!  
 
-### EN
-
-## Hi there 👋
+### Hi there 
 
 <!--
 **monaric/monaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
